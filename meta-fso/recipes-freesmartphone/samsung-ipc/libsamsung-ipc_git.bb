@@ -2,7 +2,7 @@ require ${BPN}.inc
 
 #DEFAULT_PREFERENCE = "-1"
 
-SRCREV = "222f78a5f065cc1c1cbefe77ef96807ea996d0fb"
+SRCREV = "de43b72379b469567454b96d03a56bf813913475"
 PV = "0.2.0+gitr${SRCPV}"
 
 SAMSUNGIPC_BRANCH ?= "master"
